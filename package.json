@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "smart-crop-advisory-system",
   "version": "1.0.0",
   "description": "A multilingual, AI-based crop advisory system for small and marginal farmers",
