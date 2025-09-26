@@ -3,6 +3,12 @@
 > **Problem Statement ID:** 25010  
 > **AI-Powered Multilingual Platform for Small and Marginal Farmers**
 
+## 🌐 Live Website
+
+**🚀 [Visit the Smart Crop Advisory System](https://likithkumar156-design.github.io/smart-crop-advisory-system/)**
+
+Experience the platform live with all its features including multilingual support, AI-powered recommendations, and interactive crop advisory tools.
+
 ## 🌱 Overview
 
 The Smart Crop Advisory System is a comprehensive web application designed to empower small and marginal farmers with AI-powered agricultural intelligence. This platform addresses the critical gap in personalized, real-time advisory services by providing scientific insights in farmers' native languages.
