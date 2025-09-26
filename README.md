@@ -81,12 +81,42 @@ Our platform delivers on all the key requirements:
 
 ## 🛠️ Technology Stack
 
-- **Frontend:** React 18 with modern hooks
-- **Styling:** Tailwind CSS with custom design system
-- **Build Tool:** Vite for fast development and optimized builds
+### Frontend
+- **Framework:** React 18 with Next.js 13+ (upgraded from Vite)
+- **Styling:** Tailwind CSS with shadcn/ui components
+- **State Management:** Zustand for lightweight state management
+- **Forms:** React Hook Form with Zod validation
+- **Charts:** Recharts for data visualization
 - **Icons:** Lucide React for consistent iconography
 - **Animations:** Framer Motion for smooth interactions
-- **Routing:** React Router for seamless navigation
+- **Internationalization:** next-i18next for multilingual support
+
+### Backend
+- **Runtime:** Node.js 18+
+- **Framework:** Express.js with TypeScript
+- **Database:** MongoDB with Mongoose ODM
+- **Authentication:** JWT with bcrypt for security
+- **File Storage:** Multer with Cloudinary integration
+- **API Documentation:** Swagger/OpenAPI 3.0
+- **Testing:** Jest with Supertest
+
+### Mobile (Planned)
+- **Framework:** React Native with Expo
+- **Navigation:** React Navigation 6
+- **State Management:** Zustand
+- **Offline Storage:** AsyncStorage with SQLite
+
+### AI/ML Services
+- **Image Recognition:** TensorFlow.js for pest detection
+- **Weather API:** OpenWeatherMap for real-time data
+- **ML Models:** Custom models for crop recommendations
+- **Voice Processing:** Web Speech API
+
+### Infrastructure
+- **Hosting:** Vercel (Frontend) + Railway (Backend)
+- **Database:** MongoDB Atlas
+- **CDN:** Cloudinary for image optimization
+- **Monitoring:** Sentry for error tracking
 
 ## 🚀 Quick Start
 
